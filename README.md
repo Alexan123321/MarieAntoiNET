@@ -22,6 +22,10 @@ This repository contains the source code for MarieAntoiNET, and the code for run
 5. Navigate to the `cncNode` folder to compile and start the cncNode. Follow the README instructions in that folder.
 6. OPTIONAL: Navigate to the `attackNode` folder to compile and start the attackNode. Follow the README instructions in that folder.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For any questions or collaboration opportunities, please contact me at Alexander123321@hotmail.com
