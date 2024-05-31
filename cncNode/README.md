@@ -36,6 +36,6 @@ To install cncNode, you need to have Go installed on your machine. You can downl
 
 To run the cncNode, please use the following command:
    ```sh
-   cncNode -botAddress <host:port> -bootstrapAddress <bootstrap_node_address>
+   ./cncNode -botAddress <host:port> -bootstrapAddress <bootstrap_node_address>
 
    ```
