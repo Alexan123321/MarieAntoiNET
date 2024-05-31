@@ -32,6 +32,7 @@ To install BootstrapNode, you need to have Go installed on your machine. You can
 ```go build .
 
 ## Usage
+
 To run the bootstrapNode, please use the following command:
 ``` go run main.go -address <host:port>
 
