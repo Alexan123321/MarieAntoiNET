@@ -1,5 +1,5 @@
 
-# BootstrapNode
+# bootstrapNode
 
 The bootstrapNode operates as a Waku full node on a compromised server with a public IP (e.g. a web server). The purpose of the bootstrapNode is to
 provide light nodes with a point of entry into the network.
