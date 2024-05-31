@@ -6,7 +6,7 @@ provide light nodes with a point of entry into the network.
 
 ## Installation
 
-To install BootstrapNode, you need to have Go installed on your machine. You can download and install Go from the [official website](https://golang.org/dl/).
+To install bootstrapNode, you need to have Go installed on your machine. You can download and install Go from the [official website](https://golang.org/dl/).
 
 1. Clone the repository:
    ```sh
@@ -37,5 +37,5 @@ To install BootstrapNode, you need to have Go installed on your machine. You can
 
 To run the bootstrapNode, please use the following command:
    ```sh
-   go run main.go -address <host:port>
+   ./boostrapNode -address <host:port>
    ```
